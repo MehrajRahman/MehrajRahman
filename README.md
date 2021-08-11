@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @MehrajRahman
-- 👀 I’m interested in WebDevelopment
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on this sector
+###Hello, I'm Mehraj. i'm a javascript Developer learning everyday.
 
 
 <!---
