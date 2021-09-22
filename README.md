@@ -21,7 +21,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=MehrajRahman&theme=radical&show_icons=true&count_private=true&hide=issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MehrajRahman&theme=radical&layout=compact)](https://github.com/MehrajRahman)
-  
+<!--   
 <h2> Technologies I like to work with ❤️</h2>
  <table>
    <tr>
@@ -94,7 +94,7 @@
 <a href="https://github.com/MehrajRahman/Onuronon.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Mehraj&theme=react&repo=Onuronon.github.io" />
 </a>
-
+ -->
 <!--
 **yeazin/yeazin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
