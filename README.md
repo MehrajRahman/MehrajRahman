@@ -8,7 +8,7 @@
 
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rahmanmehraj627@gmail.com)
-![](https://komarev.com/ghpvc/?username=yeazin&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=MehrajRahman&color=brightgreen)
 
 <h4>Hi I am Mehraj Rahman , a passoniate Javascript deveolper from Bangladesh. I am a Self-taught Developer. I have a profound knowledge in  Javascript & it's Fameworks. I love to work with new Technologies and like to learn new things everytime .<h4>
 
