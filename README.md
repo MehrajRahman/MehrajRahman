@@ -1,11 +1,7 @@
-I apologize if the previous README draft didn't meet your expectations for a GitHub profile! You are absolutely right—a great GitHub README often relies heavily on visual elements, advanced Markdown features, and community tools (like GitHub stats and activity graphs) to truly stand out.
 
-I will create a much more visually engaging and feature-rich README, using placeholders for elements that would dynamically pull data from your profile.
 
-Here is the Advanced GitHub README Template incorporating modern best practices:
-
-🤖 Mehraj Rahman
-Computer Science Student | Systems Design & Applied Research
+Mehraj Rahman
+Computer Science & Engineering | Computer Networks | Competitive Programmer
 <p align="left">
 <a href="https://linkedin.com/in/your-profile" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -16,17 +12,16 @@ Computer Science Student | Systems Design & Applied Research
 <img src="https://komarev.com/ghpvc/?username=MehrajRahman&color=blue" alt="Profile views">
 </p>
 
-🚀 About Me
+## About Me
 I'm an undergraduate CSE student focused on the intersection of Systems Design, Algorithms, and Applied Research. My work is driven by a passion for solving complex problems in communication networks and interoperable systems.
 
-Focus Area	Description
+## Focus Area	Description
 Networking	🌐 Opportunistic (OppNets) and Delay-Tolerant Networks, Network Simulation, Performance Analysis.
 IoT Systems	⚙️ Designing universal middleware and bridging frameworks for seamless IoT data interoperability.
 Development	💻 Full-Stack engineering (Spring/Next.js), prioritizing clean, efficient, and scalable architecture.
 Algorithms	🏆 Active competitive programmer (Codeforces, LeetCode), optimizing implementations for speed and clarity.
 
-Export to Sheets
-🛠️ Tech Stack I Work With
+## Tech Stack I Work With
 <p align="center">
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -42,18 +37,14 @@ Export to Sheets
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
-✨ Selected Projects
-Project	Focus	GitHub Repo
-OppNDA	Middleware visualization tool for ONE Simulator (Opportunistic Networks).	Link to OppNDA Repo
-IoT Bridging Middleware	Universal framework for lightweight sensor data and protocol interoperability.	Link to IoT Middleware Repo
-EduKonnect	Full-stack social-based learning and collaboration platform.	Link to EduKonnect Repo
+## Selected Projects
+will be updated soon!
 
-Export to Sheets
-📈 GitHub Stats
+## GitHub Stats
 Activity & Stats	Top Languages
 <img src="https://github-readme-stats.vercel.app/api?username=MehrajRahman&show_icons=true&theme=dark&count_private=true&hide_border=true" alt="Mehraj's GitHub Stats">	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehrajRahman&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="Top Languages">
 
-Export to Sheets
+
 <details>
 <summary>What I've been up to lately... (click to see activity graph)</summary>
 <p align="center">
