@@ -1,5 +1,5 @@
-<h1 align="center">👋 I'm Mehraj Rahman</h1>
-<h3 align="center">Computer Science & Engineering | Systems & Network Research | Full-Stack Developer</h3>
+<h1 align="center">I'm Mahamudr Rahman Maharaz</h1>
+<h3 align="center">Computer Science & Engineering | Systems & Network Research</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/your-profile" target="_blank">
@@ -13,7 +13,7 @@
 
 ---
 
-### 🧭 About Me
+### About Me
 I'm an undergraduate **Computer Science and Engineering** student passionate about **networked systems**, **algorithms**, and **applied software research**.  
 My interests lie at the convergence of **distributed communication frameworks**, **IoT interoperability**, and **high-performance systems design**.
 
@@ -21,7 +21,7 @@ My interests lie at the convergence of **distributed communication frameworks**,
 
 ---
 
-### 🔬 Focus Areas
+### Focus Areas
 
 | Domain | Research & Development Focus |
 |:-------|:------------------------------|
@@ -32,7 +32,7 @@ My interests lie at the convergence of **distributed communication frameworks**,
 
 ---
 
-### 🧰 Technical Toolbox
+### Technical Toolbox
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -55,7 +55,7 @@ My interests lie at the convergence of **distributed communication frameworks**,
 
 ---
 
-### 🚀 Featured Work
+### Featured Work
 
 **Design and Implementation of a Universal Middleware Bridging Sensor and Real-World Protocols**  
 A research-based IoT interoperability framework enabling **MQTT**, **QUIC**, and **CoAP**-based data exchange between heterogeneous systems.
@@ -66,11 +66,11 @@ Full-stack web app (Next.js + PHP backend) integrating **social media features**
 **OppNDA — Opportunistic Network Data Analyzer**  
 A lightweight tool for **OppNets simulation** data visualization and performance evaluation.
 
-📌 _More projects coming soon — including simulation frameworks, middleware prototypes, and research implementations._
+ _More projects coming soon — including simulation frameworks, middleware prototypes, and research implementations._
 
 ---
 
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MehrajRahman&show_icons=true&theme=transparent&hide_title=true&hide_border=true" height="170"/>
